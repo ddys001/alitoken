@@ -3,7 +3,7 @@
 
 AliToken自动刷新一键脚本
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/sxbai/alitoken-on-replit/master/install.sh)
+bash <(curl -s https://raw.githubusercontent.com/ddys001/alitoken/master/install.sh)
 ```
 ## 首次搭建注意事项
 - `token.txt`需要填你自己的32位阿里云盘token，至于怎么获取网上有很多教程可以百度。
